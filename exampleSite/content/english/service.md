@@ -3,27 +3,27 @@ title : "SERVICES"
 service_list:
 # service item loop
 - name : "Game Development"
-  image : "images/icons/web-development.png"
+  image : "images/icons/gamepad.png"
   
 # service item loop
-- name : "3D Visualizer"
-  image : "images/icons/graphic-design.png"
+- name : "Blender artist"
+  image : "images/icons/blender.png"
   
 # service item loop
 - name : "Unity Development"
-  image : "images/icons/dbms.png"
+  image : "images/icons/unity.png"
   
 # service item loop
-- name : "Unreal Development"
-  image : "images/icons/software-development.png"
+- name : "Unreal Engine User"
+  image : "images/icons/unreal.png"
   
 # service item loop
 - name : "Adobe Creative Enthusiast"
-  image : "images/icons/marketing.png"
+  image : "images/icons/adobe.png"
   
 # service item loop
-- name : "Artist"
-  image : "images/icons/mobile-app.png"
+- name : "Sketch"
+  image : "images/icons/sktch.png"
 
 
 
