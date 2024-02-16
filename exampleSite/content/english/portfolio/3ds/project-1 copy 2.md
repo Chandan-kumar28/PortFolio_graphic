@@ -1,8 +1,7 @@
 ---
-title: "Project 2"
-showdate: false
+title: "Project Title"
 image: "images/portfolio/2.png"
-categories: ["Game"]
+categories: ["3d Art"]
 description: "This is meta description."
 draft: false
 project_info:

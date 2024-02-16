@@ -1,7 +1,7 @@
 ---
 title: "Project Title"
-image: "images/portfolio/1.png"
-categories: ["design","development"]
+image: "images/portfolio/56.png"
+categories: ["3d Art"]
 description: "This is meta description."
 draft: false
 project_info:
