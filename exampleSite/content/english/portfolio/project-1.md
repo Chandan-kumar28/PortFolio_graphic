@@ -1,6 +1,5 @@
 ---
-# title: "Project Title"
-date: false
+title: "Project Title"
 image: "images/portfolio/1.png"
 categories: ["design","development"]
 description: "This is meta description."
