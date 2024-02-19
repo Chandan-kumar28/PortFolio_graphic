@@ -1,6 +1,6 @@
 ---
 title: "Project Title"
-image: "images/portfolio/1.png"
+image: "images/portfolio/0.png"
 categories: ["3d Art"]
 description: "This is meta description."
 draft: false
