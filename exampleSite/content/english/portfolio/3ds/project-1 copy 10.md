@@ -1,5 +1,5 @@
 ---
-title: "Project Title"
+title: "Title"
 image: "images/portfolio/10.png"
 categories: ["3d Art"]
 description: "This is meta description."

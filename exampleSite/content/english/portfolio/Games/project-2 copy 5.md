@@ -11,38 +11,36 @@ project_info:
   content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://google.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://chandankumar2805001.itch.io/skyglider"
+# - name: "New Item"
+#   icon: "fas fa-globe"
+#   content: "Add whatever you want"
+# - name: "Loop Item"
+#   icon: "fas fa-redo"
+#   content: "This is in a loop"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Game Title: SkyGlider: Paper Flight Adventures
+
+Description: Embark on a thrilling journey through the boundless skies in "Sky Soarer." Take control of a nimble paper plane using simple yet intuitive keyboard commands. The fate of your paper plane rests in your hands as you navigate through the vast, ever-changing landscapes.
+
+Controls:
+
+W or Up Arrow: Ascend
+S or Down Arrow: Descend
+A or Left Arrow: Tilt Left
+D or Right Arrow: Tilt Right
+Q :Turn Left
+E:Turn Right
+SPACE: Throwttle
+Objective: Guide your paper plane with precision, avoiding obstacles and collecting points to reach new heights. The skies are filled with challenges, but your adept control over the keyboard will determine how far you can soar. Beware, though — if your paper plane touches the ground, it's game over.
+
+Features:
+
+Responsive Controls: Experience seamless control with the keyboard as you master the art of flight.
+Scenic Landscapes: Traverse diverse environments, from tranquil meadows to bustling cityscapes.
+High-Stakes Challenges: Navigate through obstacles and dodge hazards to keep your paper plane aloft.
+Game Over on Ground Contact: Every landing counts! If your paper plane touches the ground, the adventure comes to an end.
+Immerse yourself in the enchanting world of "Sky Soarer" and prove your skills as a master aviator. How far can you take your paper plane before it meets the ground?
 
 
-#### Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
-
-
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.

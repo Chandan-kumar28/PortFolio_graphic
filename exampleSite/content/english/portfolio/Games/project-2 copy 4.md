@@ -1,5 +1,5 @@
 ---
-title: "Catch the Ball"
+title: "Master the Edge"
 showdate: false
 image: "images/portfolio/games/g4.png"
 categories: ["Game"]
@@ -11,38 +11,37 @@ project_info:
   content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://chandankumar2805001.itch.io/master-the-edge"
+# - name: "New Item"
+#   icon: "fas fa-globe"
+#   content: "Add whatever you want"
+# - name: "Loop Item"
+#   icon: "fas fa-redo"
+#   content: "This is in a loop"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Master the Edge: A Thrilling Game of Precision and Agility!
+Challenge your reflexes and nerves in "Master the Edge," a unique and captivating game where you control a revolving creature with a cutting edge. Your mission: catch incoming balls with your edge for the highest score!
+
+Fast-paced and addictive:
+
+Control the creature: Guide its rotation with fluid and responsive controls.
+Slice through balls: Time your movements perfectly to catch them with your edge.
+Score big: Each successful catch boosts your score and keeps you in the game.
+Beware the misses: Every dropped ball sticks to your creature, slowing you down and increasing the challenge.
+Five strikes and out: Stay focused! Miss five balls and the game ends, leaving you with your final score to brag about.
+More than just catching:
+
+Strategic movement: Plan your rotations to anticipate ball trajectories and maximize your catches.
+Increasing difficulty: As you progress, the balls come faster and the stakes get higher.
+Unlockable skins: Customize your creature with eye-catching skins earned through high scores.
+Perfect for:
+
+Gamers seeking a quick and engaging challenge.
+Fans of arcade-style action with a unique twist.
+Players who enjoy mastering mechanics and pushing their reflexes.
+Ready to test your edge? Download "Master the Edge" on itch.io today and see if you can become the ultimate ball-catching master!
 
 
-#### Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
 
 
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.

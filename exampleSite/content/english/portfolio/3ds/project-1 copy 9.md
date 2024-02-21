@@ -1,9 +1,10 @@
 ---
-title: "Project Title"
+title: "Abhis"
 image: "images/portfolio/9.png"
 categories: ["3d Art"]
 description: "This is meta description."
 draft: false
+
 project_info:
 - name: "Client"
   icon: "fas fa-user"

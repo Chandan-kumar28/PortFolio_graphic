@@ -1,6 +1,5 @@
 ---
 title: "Basket Ball"
-showdate: false
 image: "images/portfolio/games/g1.png"
 categories: ["Game"]
 description: "This is meta description."
@@ -8,41 +7,41 @@ draft: false
 project_info:
 - name: "Client"
   icon: "fas fa-user"
-  content: "John Doe"
+  content: "Personal project"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://chandankumar2805001.itch.io/basket-ball"
+# - name: "New Item"
+#   icon: "fas fa-globe"
+#   content: "Add whatever you want"
+# - name: "Loop Item"
+#   icon: "fas fa-redo"
+#   content: "This is in a loop"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+
+Immerse Yourself in Hoops! - A Simple Yet Captivating Basketball Experience
+Take to the court in this intuitive basketball game designed for casual players and enthusiasts alike!
+
+Easy to pick up, challenging to master:
+
+Aim with finesse: Use your mouse to set the perfect shot trajectory!
+Move with strategy: Navigate the court with smooth arrow key controls.
+Release and fire: Unleash your shot with a satisfying click of the mouse button.
+Experience the thrill of the game:
+
+Swish through hoops: Sink baskets and feel the rush of victory!
+Challenge yourself: Progress through levels with increasing difficulty.
+Unlock rewards: Earn new basketballs and customizations as you play.
+More than just shooting:
+
+Master your dribbling: Practice your dribbling skills for better control and movement.
+Compete against AI: Test your skills against challenging AI opponents.
+Multiplayer mayhem: (Optional) Invite friends for exciting online or local multiplayer matches.
+Suitable for all ages:
+
+Simple and intuitive controls: Perfect for newcomers to basketball games.
+Appealing visuals: Enjoy vibrant graphics and engaging animations.
+Relaxing and rewarding: Unwind and have fun while honing your basketball skills.
 
 
-#### Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
-
-
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.

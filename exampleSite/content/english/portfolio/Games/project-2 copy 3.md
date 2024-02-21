@@ -1,5 +1,5 @@
 ---
-title: "Drifty Car"
+title: "Drifty Master"
 showdate: false
 image: "images/portfolio/games/g3.png"
 categories: ["Game"]
@@ -11,38 +11,34 @@ project_info:
   content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://chandankumar2805001.itch.io/drifty-car"
+# - name: "New Item"
+#   icon: "fas fa-globe"
+#   content: "Add whatever you want"
+# - name: "Loop Item"
+#   icon: "fas fa-redo"
+#   content: "This is in a loop"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
 
+Drift Master: Burn Rubber, Chase Perfection!
 
-#### Project Details
+Ready to shred tires and master the art of drifting? This adrenaline-pumping game puts you behind the wheel of a high-performance car, challenging you to drift your way through corners and blaze past checkpoints in record time.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Simple controls, intense action:
 
+Intuitive touch controls: Swipe to steer, tap to drift – pure drifting joy!
+Master the flow: Chain drifts together for massive score multipliers and bonus time.
+Sharpen your skills: Three challenging tracks, each pushing your drifting limits.
+Time is your enemy, precision your weapon:
 
-#### Project Requirements
+Race against the clock: Hit checkpoints early to shave off precious seconds.
+Perfect your approach: Find the fastest lines, master tight corners for ultimate efficiency.
+Top the leaderboard: Compete with other drifters worldwide, claim your drifting glory.
+More than just speed, it's about finesse:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Style points matter: Drift longer, chain tighter corners, earn bonus points for showmanship.
+Unlock new rides: Earn rewards and customize your car with unique skins and performance upgrades.
+Zen drifting: Relax and drift to your own pace, perfect your technique on endless mode.
+Are you ready to dominate the drift scene? Download Drift Master now and experience the pure joy of sideways driving!
+
